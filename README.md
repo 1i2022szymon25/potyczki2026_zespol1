@@ -17,7 +17,7 @@ Opisz kroki wykonane w celu realizacji zadania, szczególnie lokalizacje zasobó
 **Wstęp:**
 Gratulacje! Zostałeś przyjęty na prestiżowy, acz bezpłatny staż w prężnie rozwijającym się przedsiębiorstwie wielobranżowym Krzak-Pol S.A. Główny informatyk, Pan Wiesio, wyjechał na ryby w Bieszczady i zapomniał zabrać telefonu. Prezes Janusz właśnie wpadł do serwerowni z wypiekami na twarzy i listą pilnych zadań. 
 
-Twoim narzędziem pracy jest nowoczesny klaster K3s z panelem Rancher. Prezes nie znosi sprzeciwu, a każda sekunda to dla niego utrata zysków. Uratuj firmę, a może dostaniesz referencje! Czas ucieka. Powodzenia!
+Twoim narzędziem pracy jest nowoczesny klaster K3s z panelem Rancher. Prezes nie znosi sprzeciwu, a każda sekunda to dla niego utrata zysków. Uratuj firmę, a może dostaniesz referencje!
 
 ---
 
