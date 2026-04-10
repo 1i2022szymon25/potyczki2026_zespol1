@@ -78,15 +78,15 @@ Organizator wdrożył zepsute zasoby w przestrzeni `ksiegowosc-prod`. Twoim zada
 
 **Zadania do wykonania:**
 * [4 pkt] Utwórz własną klasę pamięci (`StorageClass`) o nazwie `krzak-longhorn-retain`, bazującą na zainstalowanym Longhornie, wymuszającą politykę `reclaimPolicy: Retain`.
-* [6 pkt] W nowej przestrzeni `klienci-premium` wdróż instancję bazy danych (np. MariaDB, PostgreSQL) używając zasobu `StatefulSet`. Użyj `volumeClaimTemplates` skonfigurowanego do użycia nowej klasy pamięci.
+* [6 pkt] W nowej przestrzeni `klienci-premium` wdróż instancję bazy danych MariaDB używając zasobu `StatefulSet`. Użyj `volumeClaimTemplates` skonfigurowanego do użycia nowej klasy pamięci.
 
 ### Misja 8: "Pendrive Wiesia" (10 pkt)
 > *"Znalazłem pendrive w biurku Wiesia. Mówił, że to nowy Panel Kierownictwa. Próbowałem to odpalić z tego pliku YAML, ale wszystko świeci na czerwono. Grażynka płacze, ja nie mam podglądu w zyski. Napraw ten kod, niech to ruszy!"*
 
 **Zadania do wykonania:**
 W głównym katalogu tego repozytorium znajdziesz plik `pendrive.yaml`. Wdróż go w swoim klastrze, a następnie zdiagnozuj i napraw błędy, które uniemożliwiają jego działanie.
-* [5 pkt] Napraw błędy związane z RBAC (InitContainer nie ma uprawnień do odpytywania API Kubernetes).
-* [5 pkt] Napraw błędy konfiguracyjne powodujące nieskończone restarty Poda (`CrashLoopBackOff`).
+* [5 pkt] Napraw błędy związane z RBAC.
+* [5 pkt] Napraw błędy powodujące nieskończone restarty Poda.
 
 ### Misja 9: "Paranoja i Twierdza Krzak-Pol" (10 pkt)
 > *"Wiesio ściągał najnowsze oprogramowanie (tag 'latest') i potem w piątek po południu pół firmy nie działało! Skonfiguruj ten cały NeuVector tak, żeby już NIKT nie mógł wdrażać niczego z 'latest'. A ta baza danych dla prestiżowych klientów z Misji 7? Zablokuj do niej dostęp WSZYSTKIM, poza naszą stroną internetową z Misji 6!"*
