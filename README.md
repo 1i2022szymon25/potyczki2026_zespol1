@@ -37,6 +37,7 @@ Twoim narzędziem pracy jest nowoczesny klaster K3s z panelem Rancher. Prezes ni
 instalacja longhorna
 <img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/f86dfef3-15b7-4058-93ee-269ced76b7d4" />
 
+<img width="1274" height="972" alt="image" src="https://github.com/user-attachments/assets/ee8aaae9-ed77-48c1-87e9-83a9dbe39e65" />
 
 
 
