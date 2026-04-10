@@ -31,6 +31,8 @@
 ** poprawka na ksiegowy-app **
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f90aa929-4c07-4eb7-9fa9-c2e2df1ec502" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/71a3d303-a04c-4a40-8eca-07f42102ca30" />
+
 
 ** aktywny system premii **
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5c023e8-8349-46a7-9676-196a70fdb04d" />
