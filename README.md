@@ -92,6 +92,9 @@ Organizator wdrożył zepsute zasoby w przestrzeni `ksiegowosc-prod`. Twoim zada
 * [5 pkt] Wygeneruj własny certyfikat (Self-Signed), zapisz go jako `Secret` typu TLS w klastrze i podepnij pod Ingress z Misji 1, zapewniając dostęp po HTTPS.
 <img width="1241" height="908" alt="image" src="https://github.com/user-attachments/assets/4d496a66-006c-4576-b422-b6fcaf337f43" />
 
+<img width="1914" height="984" alt="image" src="https://github.com/user-attachments/assets/e68d995d-4bf4-4858-8480-0d2e97eec66f" />
+
+
 ### Misja 7: "Baza klientów na wieki wieków" (10 pkt)
 > *"Grażynka ma bazę prestiżowych klientów w Excelu. Każą nam to przenieść do jakiejś prawdziwej bazy, żeby było 'stanowo'. I najważniejsze: jak znowu Wiesio wyrwie kable, to dysk z danymi ma zostać nieruszony! Jakieś zasady Retain czy coś, nie znam się na tym, ale ma działać!"*
 
