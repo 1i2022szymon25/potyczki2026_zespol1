@@ -1,3 +1,12 @@
+### Zadanie 1 
+
+****
+
+
+** Utworzenie clusterip servicu dla deploymentu oraz 'dopasowanie' podow**
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/07a316cf-5690-4cb9-b8eb-6c58ecd34c23" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/776086f4-64b5-45b9-b9b5-7e88f5447ff9" />
+
 
 ### Zadanie 2
 
@@ -12,6 +21,13 @@
 <img width="1254" height="911" alt="image" src="https://github.com/user-attachments/assets/368f097f-f80e-45eb-bb9a-99b7b7f57dde" />
 
 <img width="1242" height="904" alt="image" src="https://github.com/user-attachments/assets/4bbe8653-031e-4a86-8f2d-1444170fed45" />
+
+### Zadanie 3
+
+
+** aktywny system premii**
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5c023e8-8349-46a7-9676-196a70fdb04d" />
+
 
 ### Zadanie 5
 
