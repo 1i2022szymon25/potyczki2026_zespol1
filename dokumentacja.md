@@ -102,6 +102,7 @@ Timery Probea: ustawienie periodSeconds: 2 i initialDelaySeconds: 2 skutkuje tym
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31d3403e-3674-44b2-8dfa-879b80864fe6" />
 
+# w celu zablokowania obrazów  z tagiem latest to w panelu po lewej sekcji Policy Admission Control dodałbym regułę z kategorii image z akcją deny, a w criteria wybrałbym image tag is one of "latest"
 
 ### zadanie 10
 # oznaczenie klastra na trie zloto 
