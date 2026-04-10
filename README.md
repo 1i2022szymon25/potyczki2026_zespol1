@@ -34,6 +34,12 @@ Twoim narzędziem pracy jest nowoczesny klaster K3s z panelem Rancher. Prezes ni
 ### Misja 2: "Panie, gdzie są moje faktury?!" (10 pkt)
 > *"Wczoraj wrzuciłem skany najważniejszych faktur na ten nowy serwer. Potem Wiesio wyciągnął wtyczkę od serwera, bo potrzebował gniazdka do odkurzacza. Włączam dzisiaj i pusto! Jakie efemeryczne kontenery?! Zainstaluj mi ten cały system Długi Róg czy jak to tam, ten Longhorn! Ja to się znam na tym bo w gazecie pisali. I zrób tak, żeby moje pliki tam siedziały na twardo!"*
 
+instalacja longhorna
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/f86dfef3-15b7-4058-93ee-269ced76b7d4" />
+
+
+
+
 **Zadania do wykonania:**
 * [3 pkt] Zainstaluj system storage Longhorn na swoim klastrze (możesz wykorzystać wbudowane mechanizmy Ranchera).
 * [3 pkt] Utwórz PersistentVolumeClaim (PVC) o wielkości 2GB w przestrzeni nazw `krzak-pol-magazyn`, używając `storageClassName: longhorn`.
