@@ -3,17 +3,17 @@
 ****
 
 
-** Utworzenie clusterip servicu dla deploymentu oraz 'dopasowanie' podow**
+# Utworzenie clusterip servicu dla deploymentu oraz 'dopasowanie' podow
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/07a316cf-5690-4cb9-b8eb-6c58ecd34c23" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/776086f4-64b5-45b9-b9b5-7e88f5447ff9" />
 
 
 ### Zadanie 2
 
-**instalacja longhorna**
+#instalacja longhorna
 <img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/f86dfef3-15b7-4058-93ee-269ced76b7d4" />
 
-**Utworzenie deploymentu z danymi prezesa (nazwa utworzona aby oszukać hakerów żeby nie wiedzieli że są to dane prezesa)**
+#Utworzenie deploymentu z danymi prezesa (nazwa utworzona aby oszukać hakerów żeby nie wiedzieli że są to dane prezesa)
 <img width="1263" height="908" alt="image" src="https://github.com/user-attachments/assets/8c8a6052-4acc-4a37-8cf0-b73bb3fbb563" />
 
 
