@@ -81,6 +81,7 @@ Timery Probea: ustawienie periodSeconds: 2 i initialDelaySeconds: 2 skutkuje tym
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/aae70dc2-81eb-446d-9fab-5215b792b4fa" />
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31d3403e-3674-44b2-8dfa-879b80864fe6" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/513c81ac-5160-4f3d-b1d8-a500ee6e613e" />
 
 
 ### zadanie 10
