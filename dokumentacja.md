@@ -37,6 +37,7 @@
 #aktywny system premii 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5c023e8-8349-46a7-9676-196a70fdb04d" />
 ### zadanie 4
+#o 12 50 zainstalowaliśmy neuvectora na złym nodzie 
 # Instalacja neuvector (niestety zaszła pomyłka i neuvector zainstalował się na złym klastrze, czego maszyna nie utrzymała. Jako rozwiązanie probelmu proponowałbym zwięszkenie tymczasowo ramu dla maszyny z rancherem, poczekanie na wstanie klastra i usuniecie neuvectora z lokalnego klastra)
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cbea03b8-2d98-430f-8ee8-9f30f82f556d" />
 
