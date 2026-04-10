@@ -46,6 +46,18 @@
 <img width="1905" height="908" alt="image" src="https://github.com/user-attachments/assets/ec233dec-6cb5-48f2-a892-a584a19ff271" />
 
 ### zadanie 6
+** utworzenie secruty z wykonania komedy do generowania certyfikatu openssl **
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a1036f8e-9583-4bd8-a358-29b156e8a634" />
+
+** dodanie certyfikatu do ingressa **
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7d7ca330-a006-4964-8913-eb12d78985b6" />
+
+** Tworzenie emptydir **
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/884f8033-4b80-43a9-bf0b-1809536d18ed" />
+
+** Podlaczenie emptydir**
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8bd8e953-d129-4f5c-abca-009adafc8cc9" />
+
 
 ** ustawienie init container z komenda pobierajaca index.html**
 <img width="1241" height="908" alt="image" src="https://github.com/user-attachments/assets/4d496a66-006c-4576-b422-b6fcaf337f43" />
