@@ -19,3 +19,12 @@
 <img width="1258" height="907" alt="image" src="https://github.com/user-attachments/assets/a5514815-9875-4edd-92a3-badf32657387" />
 ** Ustawienie limitów dla ns ksiegowosc-prod **
 <img width="1905" height="908" alt="image" src="https://github.com/user-attachments/assets/ec233dec-6cb5-48f2-a892-a584a19ff271" />
+
+### zadanie 6
+
+** ustawienie init container z komenda pobierajaca index.html**
+<img width="1241" height="908" alt="image" src="https://github.com/user-attachments/assets/4d496a66-006c-4576-b422-b6fcaf337f43" />
+
+
+** Strona z adresem https **
+<img width="1914" height="984" alt="image" src="https://github.com/user-attachments/assets/e68d995d-4bf4-4858-8480-0d2e97eec66f" />
